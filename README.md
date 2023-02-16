@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/https://miro.medium.com/fit/c/176/176/0*l1UJhLYaxSZo_BnP">
+<img src="https://miro.medium.com/fit/c/176/176/0*l1UJhLYaxSZo_BnP">
 
 ### Hi 👋
 I am Information Systems student looking for opportunities and collabaration in projects related to Back-End.
