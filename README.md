@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://miro.medium.com/fit/c/176/176/0*l1UJhLYaxSZo_BnP"
 -->
 
-<img src="https://miro.medium.com/fit/c/176/176/0*l1UJhLYaxSZo_BnP">
+<img src="https://freepngimg.com/thumb/cat/88343-like-telegram-pusheen-cat-carnivoran-mammal.png">
 
 ### Hi 👋
 I am Information Systems student looking for opportunities and collabaration in projects related to Back-End.
